@@ -1,11 +1,18 @@
-service-account
+# service-product
 
-Description
+## Description
 
-Installation
+description
+
+## Installation
+
+```bash
 $ npm install
+```
 
-Running the app
+## Running the app
+
+```bash
 # development
 $ npm run start
 
@@ -14,8 +21,11 @@ $ npm run start:dev
 
 # production mode
 npm run start:prod
+```
 
-Test
+## Test
+
+```bash
 # unit tests
 $ npm run test
 
@@ -24,3 +34,5 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+```
+
